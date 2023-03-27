@@ -10,7 +10,7 @@
 "email":"faruk1154@hotmail.com",
 "registrationKey":"14ed892cbce37c96c63459503001f4cde646953d21b141880199288f49d9be41"}
 
-## Kod deposuna, içeriğe ulaşmak için kullandığım registrationKey 
+## Proje çalıştırmak için
 
 * Proje git clone komutu ile bilgisayara indirilmelidir.
 * Veritabanı olarak mysql kullanıldığı için kendi mysql veritabanımızı bağlamalıyız.
